@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+everythings_manual_flag.py
